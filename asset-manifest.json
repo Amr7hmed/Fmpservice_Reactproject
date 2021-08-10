@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Fmpservice_Reactproject/static/css/main.82b5290b.chunk.css",
+    "main.js": "/Fmpservice_Reactproject/static/js/main.0300cd14.chunk.js",
+    "main.js.map": "/Fmpservice_Reactproject/static/js/main.0300cd14.chunk.js.map",
+    "runtime-main.js": "/Fmpservice_Reactproject/static/js/runtime-main.5fecb27c.js",
+    "runtime-main.js.map": "/Fmpservice_Reactproject/static/js/runtime-main.5fecb27c.js.map",
+    "static/css/2.455652b6.chunk.css": "/Fmpservice_Reactproject/static/css/2.455652b6.chunk.css",
+    "static/js/2.526e4555.chunk.js": "/Fmpservice_Reactproject/static/js/2.526e4555.chunk.js",
+    "static/js/2.526e4555.chunk.js.map": "/Fmpservice_Reactproject/static/js/2.526e4555.chunk.js.map",
+    "static/js/3.fc230edc.chunk.js": "/Fmpservice_Reactproject/static/js/3.fc230edc.chunk.js",
+    "static/js/3.fc230edc.chunk.js.map": "/Fmpservice_Reactproject/static/js/3.fc230edc.chunk.js.map",
+    "index.html": "/Fmpservice_Reactproject/index.html",
+    "static/css/2.455652b6.chunk.css.map": "/Fmpservice_Reactproject/static/css/2.455652b6.chunk.css.map",
+    "static/css/main.82b5290b.chunk.css.map": "/Fmpservice_Reactproject/static/css/main.82b5290b.chunk.css.map",
+    "static/js/2.526e4555.chunk.js.LICENSE.txt": "/Fmpservice_Reactproject/static/js/2.526e4555.chunk.js.LICENSE.txt",
+    "static/media/logo.7354fdda.jpg": "/Fmpservice_Reactproject/static/media/logo.7354fdda.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fecb27c.js",
+    "static/css/2.455652b6.chunk.css",
+    "static/js/2.526e4555.chunk.js",
+    "static/css/main.82b5290b.chunk.css",
+    "static/js/main.0300cd14.chunk.js"
+  ]
+}
