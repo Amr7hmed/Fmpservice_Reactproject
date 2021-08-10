@@ -1,0 +1,63 @@
+[
+    {
+        "id":6,
+        "receiptnumber":"L-285409",
+        "devicetype":"HP",
+        "phone":"125478854398",
+        "devicemodel":"S-50",
+        "deviceserial":"BAG21GCANT0004TM1358",
+        "deviceproblem":"Not Open",
+        "Examinationcomment":"There is a problem with the board and it needs to be fixed ",
+        "Reformcomment":"",
+        "Finalexaminationcomment":"",
+        "Repairreport":""
+    },{
+        "id":7,
+        "receiptnumber":"M-285509",
+        "devicetype":"Samsung",
+        "phone":"12547733548798",
+        "devicemodel":"S-510",
+        "deviceserial":"BAG21GCANT1114TM1358",
+        "deviceproblem":"Not Open",
+        "Examinationcomment":"There is a problem with the board",
+        "Reformcomment":"",
+        "Finalexaminationcomment":"",
+        "Repairreport":""
+    },{
+        "id":8,
+        "receiptnumber":"L-296409",
+        "devicetype":"Dell",
+        "phone":"1254773398798",
+        "devicemodel":"D-250",
+        "deviceserial":"Dell21GCANT0004TM1358",
+        "deviceproblem":"Not Open",
+        "Examinationcomment":"There is a problem with the board and it needs to be fixed ",
+        "Reformcomment":"",
+        "Finalexaminationcomment":"",
+        "Repairreport":""
+    },{
+        "id":9,
+        "receiptnumber":"T-275409",
+        "devicetype":"Huawei",
+        "phone":"125477337898",
+        "devicemodel":"Gt-50",
+        "deviceserial":"Huawei1GCANT0004TM1358",
+        "deviceproblem":"Not Open",
+        "Examinationcomment":"There is a problem with the board and it needs to be fixed ",
+        "Reformcomment":"",
+        "Finalexaminationcomment":"",
+        "Repairreport":""
+    },{
+        "id":10,
+        "receiptnumber":"L-285409",
+        "devicetype":"Acer",
+        "phone":"12547733098",
+        "devicemodel":"Acer-50",
+        "deviceserial":"Acer21GCANT0004TM1358",
+        "deviceproblem":"Not Open",
+        "Examinationcomment":"There is a problem with the board and it needs to be fixed ",
+        "Reformcomment":"",
+        "Finalexaminationcomment":"",
+        "Repairreport":""
+    }
+]

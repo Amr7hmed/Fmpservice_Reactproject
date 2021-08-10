@@ -1,0 +1,63 @@
+[
+    {
+        "id":1,
+        "receiptnumber":"L-18540",
+        "devicetype":"HP",
+        "phone":"1254778773",
+        "devicemodel":"S-50",
+        "deviceserial":"BAG21GCANT0004TM1",
+        "deviceproblem":"Not Open",
+        "Examinationcomment":"",
+        "Reformcomment":"",
+        "Finalexaminationcomment":"",
+        "Repairreport":""
+    },{
+        "id":2,
+        "receiptnumber":"M-18550",
+        "devicetype":"Samsung",
+        "phone":"125477335487",
+        "devicemodel":"S-510",
+        "deviceserial":"BAG21GCANT1114TM1",
+        "deviceproblem":"Not Open",
+        "Examinationcomment":"",
+        "Reformcomment":"",
+        "Finalexaminationcomment":"",
+        "Repairreport":""
+    },{
+        "id":3,
+        "receiptnumber":"L-19640",
+        "devicetype":"Dell",
+        "phone":"12547733987",
+        "devicemodel":"D-250",
+        "deviceserial":"Dell21GCANT0004TM1",
+        "deviceproblem":"Not Open",
+        "Examinationcomment":"",
+        "Reformcomment":"",
+        "Finalexaminationcomment":"",
+        "Repairreport":""
+    },{
+        "id":4,
+        "receiptnumber":"T-17540",
+        "devicetype":"Huawei",
+        "phone":"1254773378",
+        "devicemodel":"Gt-50",
+        "deviceserial":"Huawei1GCANT0004TM1",
+        "deviceproblem":"Not Open",
+        "Examinationcomment":"",
+        "Reformcomment":"",
+        "Finalexaminationcomment":"",
+        "Repairreport":""
+    },{
+        "id":5,
+        "receiptnumber":"L-18510",
+        "devicetype":"Acer",
+        "phone":"125477330",
+        "devicemodel":"Acer-50",
+        "deviceserial":"Acer21GCANT0004TM1",
+        "deviceproblem":"Not Open",
+        "Examinationcomment":"",
+        "Reformcomment":"",
+        "Finalexaminationcomment":"",
+        "Repairreport":""
+    }
+]

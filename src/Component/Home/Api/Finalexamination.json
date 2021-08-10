@@ -1,0 +1,63 @@
+[
+    {
+        "id":11,
+        "receiptnumber":"L-385409",
+        "devicetype":"HP",
+        "phone":"125478854354",
+        "devicemodel":"S-50",
+        "deviceserial":"BAG21GCANT0004TM1re8",
+        "deviceproblem":"Not Open",
+        "Examinationcomment":"There is a problem with the board and it needs to be fixed ",
+        "Reformcomment":"It has been fixed and needs to be tested",
+        "Finalexaminationcomment":"",
+        "Repairreport":""
+    },{
+        "id":12,
+        "receiptnumber":"M-385509",
+        "devicetype":"Samsung",
+        "phone":"12547733548754",
+        "devicemodel":"S-510",
+        "deviceserial":"BAG21GCANT1114TM1re8",
+        "deviceproblem":"Not Open",
+        "Examinationcomment":"There is a problem with the board",
+        "Reformcomment":"It has been fixed and needs to be tested",
+        "Finalexaminationcomment":"",
+        "Repairreport":""
+    },{
+        "id":13,
+        "receiptnumber":"L-396409",
+        "devicetype":"Dell",
+        "phone":"1254773398754",
+        "devicemodel":"D-250",
+        "deviceserial":"Dell21GCANT0004TM1re8",
+        "deviceproblem":"Not Open",
+        "Examinationcomment":"There is a problem with the board and it needs to be fixed ",
+        "Reformcomment":"It has been fixed and needs to be tested",
+        "Finalexaminationcomment":"",
+        "Repairreport":""
+    },{
+        "id":14,
+        "receiptnumber":"T-375409",
+        "devicetype":"Huawei",
+        "phone":"125477337854",
+        "devicemodel":"Gt-50",
+        "deviceserial":"Huawei1GCANT0004TM1re8",
+        "deviceproblem":"Not Open",
+        "Examinationcomment":"There is a problem with the board and it needs to be fixed ",
+        "Reformcomment":"It has been fixed and needs to be tested",
+        "Finalexaminationcomment":"",
+        "Repairreport":""
+    },{
+        "id":15,
+        "receiptnumber":"L-385409",
+        "devicetype":"Acer",
+        "phone":"12547733054",
+        "devicemodel":"Acer-50",
+        "deviceserial":"Acer21GCANT0004TM1re8",
+        "deviceproblem":"Not Open",
+        "Examinationcomment":"There is a problem with the board and it needs to be fixed ",
+        "Reformcomment":"It has been fixed and needs to be tested",
+        "Finalexaminationcomment":"",
+        "Repairreport":""
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "id":16,
+        "receiptnumber":"L-4856409",
+        "devicetype":"HP",
+        "phone":"1254788543875",
+        "devicemodel":"S-50",
+        "deviceserial":"BAG21GCANT0004TM1rwd52",
+        "deviceproblem":"Not Open",
+        "Examinationcomment":"There is a problem with the board and it needs to be fixed ",
+        "Reformcomment":"It has been fixed and needs to be tested",
+        "Finalexaminationcomment":"It works fine and has no problem",
+        "Repairreport":"The spare parts of his board have been changed, the research has been done and it works well"
+    },{
+        "id":17,
+        "receiptnumber":"M-4856509",
+        "devicetype":"Samsung",
+        "phone":"125477335487875",
+        "devicemodel":"S-510",
+        "deviceserial":"BAG21GCANT1114TM1rwd52",
+        "deviceproblem":"Not Open",
+        "Examinationcomment":"There is a problem with the board",
+        "Reformcomment":"It has been fixed and needs to be tested",
+        "Finalexaminationcomment":"It works fine and has no problem",
+        "Repairreport":"The spare parts of his board have been changed, the research has been done and it works well"
+    },{
+        "id":18,
+        "receiptnumber":"L-4966409",
+        "devicetype":"Dell",
+        "phone":"12547733987875",
+        "devicemodel":"D-250",
+        "deviceserial":"Dell21GCANT0004TM1rwd52",
+        "deviceproblem":"Not Open",
+        "Examinationcomment":"There is a problem with the board and it needs to be fixed ",
+        "Reformcomment":"It has been fixed and needs to be tested",
+        "Finalexaminationcomment":"It works fine and has no problem",
+        "Repairreport":"The spare parts of his board have been changed, the research has been done and it works well"
+    },{
+        "id":19,
+        "receiptnumber":"T-4756409",
+        "devicetype":"Huawei",
+        "phone":"1254773378875",
+        "devicemodel":"Gt-50",
+        "deviceserial":"Huawei1GCANT0004TM1rwd52",
+        "deviceproblem":"Not Open",
+        "Examinationcomment":"There is a problem with the board and it needs to be fixed ",
+        "Reformcomment":"It has been fixed and needs to be tested",
+        "Finalexaminationcomment":"It works fine and has no problem",
+        "Repairreport":"The spare parts of his board have been changed, the research has been done and it works well"
+    },{
+        "id":20,
+        "receiptnumber":"L-4856409",
+        "devicetype":"Acer",
+        "phone":"125477330875",
+        "devicemodel":"Acer-50",
+        "deviceserial":"Acer21GCANT0004TM1rwd52",
+        "deviceproblem":"Not Open",
+        "Examinationcomment":"There is a problem with the board and it needs to be fixed ",
+        "Reformcomment":"It has been fixed and needs to be tested",
+        "Finalexaminationcomment":"It works fine and has no problem",
+        "Repairreport":"The spare parts of his board have been changed, the research has been done and it works well"
+    }
+]

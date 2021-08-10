@@ -1,0 +1,212 @@
+/*===================================================================*/
+/*===================================================================*/
+/*===================================Login==========================*/
+.logintebale {
+  text-align: center;
+  background-color: #fff;
+  margin: 10% auto;
+  border: 2px solid #d7d7d7;
+  height: 60%;
+  border-radius: 10px;
+  box-shadow: 0px 5px 10px 2px rgba(88, 103, 221, 0.19) !important;
+}
+/*==============login header=============*/
+.login-header {
+  background-color: #fff;
+  width: 100%;
+  height: 100%;
+  color: white;
+  border-radius: 10px 0 0 10px;
+  font-family: Poppins;
+  padding: 40px;
+  box-shadow: 0px 5px 10px 2px rgba(88, 103, 221, 0.19) !important;
+}
+.login-header img {
+  width: 100%;
+  height: 100%;
+}
+.login-header-text h4 {
+  font-weight: 500;
+  font-size: 25px;
+  margin-bottom: 15px;
+}
+.login-header-text q {
+  font-size: 14px;
+  font-family: cursive;
+}
+.login-header-text p {
+  margin-top: 15px;
+  font-family: cursive;
+}
+/*==============login body=============*/
+.loginbody {
+  padding: 40px;
+  border-radius: 0 0 10px 10px;
+}
+.loginbody h4 {
+  margin: 20px 0;
+  font-weight: bold;
+  font-size: 20px;
+}
+.accountimg {
+  margin: auto;
+}
+.loginbody .formlogn .form-check {
+  text-align: left;
+}
+.butonlogin {
+  display: block;
+  margin: 15px 0;
+  background-color: #f7ee4a !important;
+  color: black !important;
+  width: 150px;
+  border-radius: 75px !important;
+  box-shadow: 1px 5px 10px 2px rgba(88, 103, 221, 0.19) !important;
+  font-weight: bold !important;
+  font-size: 14px !important;
+}
+
+@media screen and (min-width: 401px) and (max-width: 991px) {
+  .logintebale {
+    width: 80%;
+    margin: 15% auto;
+  }
+}
+@media screen and (max-width: 400px) {
+  .logintebale {
+    width: 90%;
+    margin: 15% auto;
+  }
+}
+/*=================================================*/
+/*=================================================*/
+/*========================Navbar==================*/
+.navbar .logonav {
+  width: 100px;
+  height: 59px;
+}
+.navbar-collapse {
+  flex-grow: 0 !important;
+}
+.navbar-collapse .nav-item {
+  margin-right: 20px;
+  font-size: 14px;
+  font-weight: bold;
+}
+.navbar-collapse .nav-item:last-child {
+  margin-right: 0;
+}
+
+@media screen and (min-width: 990px) {
+  .navbar-expand-lg .navbar-nav .dropdown-menu {
+    position: absolute;
+    top: 55px !important;
+    left: -55px !important;
+  }
+}
+/*=================================================*/
+/*=================================================*/
+/*========================Footer=====================*/
+.footer {
+  width: 100%;
+  bottom: 0;
+  height: 70px;
+}
+.footer .logonav {
+  width: 80px;
+  height: 40px;
+}
+.footer .text-muted {
+  line-height: 40px;
+  font-size: 12px;
+  font-weight: bold;
+}
+/*=================================================*/
+/*=================================================*/
+/*========================Create===================*/
+.createheader {
+  position: relative;
+  width: 100%;
+  height: 80vh;
+}
+.createheader .createheaderdoc {
+  position: absolute;
+  width: 50%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  text-align: center;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0px 5px 10px 2px rgba(88, 103, 221, 0.19) !important;
+}
+.createheader .createheaderdoc h3 {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 10px 0 20px 0;
+}
+.createheader .createheaderdoc .btn-border {
+  width: 100%;
+  margin: 10px 0 20px 0;
+}
+@media screen and (min-width: 401px) and (max-width: 991px) {
+  .createheader .createheaderdoc {
+    width: 80%;
+  }
+  .createheader .createheaderdoc h3 {
+    font-size: 18px;
+  }
+}
+@media screen and (max-width: 400px) {
+  .createheader .createheaderdoc {
+    width: 90%;
+  }
+  .createheader .createheaderdoc h3 {
+    font-size: 16px;
+  }
+}
+
+/*=================================================*/
+/*========================Datarecording===================*/
+.datarecording {
+  position: relative;
+  width: 100%;
+  height: auto;
+  margin-bottom: 30px;
+}
+.formcontrol {
+  background-color: white;
+  margin: 10px 0;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0px 5px 10px 2px rgba(88, 103, 221, 0.19) !important;
+}
+.datarecording legend {
+  margin-top: 10px;
+  color: #333232;
+  font-size: 18px;
+  font-weight: bold;
+}
+.formcontrol label {
+  font-size: 14px;
+  font-weight: bold;
+}
+.formcontrol input,
+.formcontrol select {
+  padding: 5px 10px;
+  margin-top: 8px;
+  border: 0.4px solid#dbd5d5;
+  border-radius: 5px;
+}
+.headeform {
+  margin: 15px 0;
+  background-color: #535252;
+  color: white;
+  width: 50%;
+  box-shadow: 1px 5px 10px 2px rgba(88, 103, 221, 0.19) !important;
+  padding: 10px 15px;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 15px;
+}
